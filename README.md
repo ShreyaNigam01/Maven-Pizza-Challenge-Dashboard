@@ -6,9 +6,13 @@ For the Maven Pizza Challenge, you’ll be playing the role of a BI Consultant h
 
 I tried to answer some questions posed by Maven Analytics to be able to answer:
 
+
 What days and times do we tend to be busiest?
+
 How many pizzas are we making during peak periods?
+
 What are our best and worst pizzas in terms of Revenue and Orders
+
 What's our average order value?
 
 
