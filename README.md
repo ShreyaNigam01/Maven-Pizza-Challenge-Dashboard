@@ -28,6 +28,7 @@ Problem Approach:
 5.	Story Telling: Creating Visualizations, for deriving insights and answer queries of the Pizza store to improve the performance and sales using Order Performance over Quarter, Month and Day ,Revenue Performance over Quarter, Month and Day,Pizza performance analysis: orders and revenue by pizza type. Used KPIs, Line chart, Barchart, Column chart and  generated Heat map through conditional formatting.
 
 Key Insights:
+
 Orders
 1.Total order is 21,350 in a year, Q3 has the highest amount of orders(5,437) and Q4 with lowest(5,118). July month has the highest number on order and October has lowest
 2.Fridays get the most orders in the week, and Sundays gets the least.
