@@ -6,17 +6,14 @@ For the Maven Pizza Challenge, you’ll be playing the role of a BI Consultant h
 
 I tried to answer some questions posed by Maven Analytics to be able to answer:
 
-
 What days and times do we tend to be busiest?
-
 How many pizzas are we making during peak periods?
-
 What are our best and worst pizzas in terms of Revenue and Orders
-
 What's our average order value?
 
 
 About the dataset: 
+
 This dataset contains 4 tables in CSV format
 The Orders table contains the date & time that all table orders were placed
 The Order Details table contains the different pizzas served with each order in the Orders table, and their quantities
